@@ -1,0 +1,16 @@
+5
+What is 2+2?
+4
+8
+What is the Capital City of Malaysia?
+Kuala Lumpor
+8
+What is the Capital City of France?
+Paris
+6
+Who Won the last Fifa World Cup?
+Argentina
+6
+What is the famous thing about Egypt?
+Pyramids
+5
